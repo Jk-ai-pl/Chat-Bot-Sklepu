@@ -1,2 +1,2 @@
 # Chat-Bot-Sklepu
-Aplikacja Chat bot FaQ sklepu internetowego
+Aplikacja okienkowa Python pełniąca rolę Chatbot'a FaQ sklepu internetowego.
